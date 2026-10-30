@@ -1,0 +1,3 @@
+[submodule "DFGraph/lib/RemoteClientDF-Net"]
+	path = DFGraph/lib/RemoteClientDF-Net
+	url = https://github.com/Lyroth001/RemoteClientDF-Net/
